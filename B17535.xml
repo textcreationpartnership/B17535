@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true spirit of scurvey-grass with its vertues. Having taken notice of several distempers which have of late years been very epidemical as griping in the guts, consumptions, and aguish feavers, which may much be imputed to the unadvised drinking of scurvey-grass ale, beer, or juice,...</title>
+            <author>Bateman, Robert, pharmacist.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17535</idno><idno type="EEBO-CITATION">99888693_195954</idno>
+  <idno type="VID">195954</idno>
+  <idno type="EEBO-PROQUEST">2264186899</idno>
+  
+            <idno type="STC">Wing B1096C</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[90]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[149]</idno>
+            <idno type="STC">ESTC R231577</idno>
+            <idno type="PROQUEST">ocm99888693</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888693e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17535)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195954)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[91], E8:1[150])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true spirit of scurvey-grass with its vertues. Having taken notice of several distempers which have of late years been very epidemical as griping in the guts, consumptions, and aguish feavers, which may much be imputed to the unadvised drinking of scurvey-grass ale, beer, or juice,...</title>
+                  <author>Bateman, Robert, pharmacist.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Imprint information from Wing.</note>
+                  <note>Item at reel position E8:1[91] imperfect: torn at right margin and foot; cropped at head, ms. obscuring text in bottom left corner.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Drugs --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Scurvy --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_scurvy-grass">
+            <pb facs="tcp:195954:1"/>
+            <head>The True SPIRIT of Scurvey-Grass. with its <hi>VERTƲES.</hi>
+            </head>
+            <p>HAving taken notice of several Distempers which have of late years been very Epidemical, as Griping of the Guts, Consumptions and Aguish Fe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vers, which may much be imputed to the unadvised drinking of <hi>Scurvey-Grass</hi> Ale, Beer or Juice, by reason it leaves such cold earthy, greenish, undigested phlegmatick slime behind in the stomach, that several the year following repented the taking so unwholsom a putrifying drink; for it is far more fit to be cast to the Dunghil, then taken into the Stomach. And to make people more fond of it, they put in Jallop and Scamony, two Drugs (and uncorrected) so powerful to open and gripe the body, that many having taken such Colds, which have thickned that slimy phlegmatick matter at the Stomach, that not long after <hi>Violent Feavers, Griping in the Stomach and Guts, shortness of Breath, and deep Consumptions</hi> hath apparently followed. For take a quart of their drink, and let it stand twelve hours, and at the bottom you shall find a hea<g ref="char:EOLhyphen"/>vy, greenish, shmy, putrifying Setling, which taken into the body, is a sure Foundation for most de<g ref="char:EOLhyphen"/>sperate distempers.</p>
+            <p>Now this Spirit of <hi>Scurvey-Grass,</hi> which is truly prepared without Adulteration, performs all that those unwholsom Drinks pretend to, and you will find one drop more beneficial to your Health, then a whole Gallon of their crude undigested Liquors.</p>
+            <p>This true Spirit has been found by experience to be a very effectual Remedy against the <hi>Scurvey, Dropsey, Stone, Wind-Collick, Griping in the Guts, Gravel in the Kidneys, Green sickness, all Obstructions of the Liver and Spleen, Surfeits, Worms, Cankers,</hi> and the <hi>Mouth Scurvey, Hypocondraick Melancholy;</hi> It mightily procures a good Appetite, helps Digestion, and is a great prevention of Consumptions, and a most excellent Anti-Scorbutick Medicine for Sea-faring persons, against all stubborn Marine diseases; And the last Summer it has been found very beneficial for those that have drunk the <hi>Bath</hi> waters, <hi>Epsom</hi>-waters, and <hi>Tunbridg</hi>-waters, in expediting and hastening their cures, even beyond ex<g ref="char:EOLhyphen"/>pectation; This Spirit is subject to no corruption, but is the same at Sea and Land, or in diversity of Cli<g ref="char:EOLhyphen"/>mates; nay, it is so far from corruption, that it preserves those bodies who often take of it from corrup<g ref="char:EOLhyphen"/>tion, &amp; delivers them from all putrid matter, which causes a multitude of diseases. Price I. S. each bottle, It is to be sold at these places following with Printed Directions for the use of it.</p>
+            <p>At Mr. <hi>Parker</hi> at the <hi>Leg</hi> and <hi>Star, Cornhil,</hi> against the <hi>Royal Exchange,</hi> Mr. <hi>Rycroft</hi> in <hi>Leaden</hi>-hall street, near the corner of <hi>Grace-Church</hi> street, Mr. <hi>Thornton</hi> at the <hi>Sun-Dial, Minories,</hi> Mr. <hi>Fisher</hi> on <hi>Great Tower</hi>-hill, Mr. <hi>Smith</hi> in <hi>Tower</hi>-street, corner of <hi>Idle</hi>-lane, Mr. <hi>Lacey</hi> at the <hi>Golden Lyon</hi> near the Kings-Head-Inn, <hi>Southwark,</hi> Mr. <hi>Rich Norcot</hi> next <hi>Peters</hi>-Alley, <hi>Cornhil,</hi> and at his shop at the <hi>Anchor</hi> and <hi>Marriner</hi> on <hi>New-Fish</hi>-street-hill, near <hi>London</hi>-bridg, Mr. <hi>Dorman Newman</hi> at the <hi>Kings Arms</hi> in the <hi>Poultrey,</hi> Mr. <hi>Hope</hi> at the North-entrance into the <hi>Royal Exchange.</hi> Mr. <hi>Parkhurst</hi> at the <hi>Bible</hi> and three <hi>Crowns</hi> in <hi>Cheapside,</hi> and at his shop on <hi>London</hi>-bridg, by the Gate, Mr. <hi>Mort<g ref="char:EOLhyphen"/>lock</hi> at the <hi>Phaenix</hi> in St. <hi>Pauls</hi> Church-yard, and at his shop at the <hi>White Hart</hi> in <hi>Westminister</hi>-hall, Mr. <hi>Battersby</hi> at <hi>Davids</hi> Inn-gate in <hi>Holbourn,</hi> Mr. <hi>Place</hi> at <hi>Furnivals</hi> Inn-gate, Mr. <hi>Dring</hi> at the <hi>Harrow</hi> the corner of <hi>Chancery</hi>-lane, against the <hi>Temple</hi>-gate, Mr. <hi>Magnus</hi> at the Post-house in <hi>Russel</hi> street, <hi>Covent-Garden,</hi> Mr. <hi>Lowndes</hi> against <hi>Exceter</hi>-house in the <hi>Strand,</hi> Mr. <hi>Ledsum</hi> at the Post<g ref="char:EOLhyphen"/>house in the <hi>Strand,</hi> against <hi>Northumberland</hi>-house, M. <hi>Charles Passenger</hi> at the 7 <hi>Stars</hi> on <hi>London</hi>-bridg M. <hi>Vade</hi> at the <hi>Cock</hi> and <hi>Sugar</hi>-loaf betwixt <hi>S. Dunstans</hi>-Church and <hi>Chancery</hi>-lane, in <hi>Fleet</hi>-street, <hi>Mr. Henry Twiford</hi> in the Middle Temple, All Book-sellers and Stationers. And at Mr. <hi>Nest's</hi> shop at <hi>Westminster</hi>-hall door, Mr. <hi>Adams</hi> a Cheefe-monger at the <hi>Frying Pan</hi> in <hi>Clare</hi> market, M. <hi>Terry</hi> a Gro<g ref="char:EOLhyphen"/>cer at the 3 <hi>Sugar-loaves</hi> in <hi>Newgate</hi> market, Mr. <hi>Gibs</hi> at the <hi>Last</hi> a Victualler without <hi>Aldersgate,</hi> Mr. <hi>Scot</hi> Haberdasher at the <hi>Hat</hi> and <hi>Gun</hi> without <hi>Bishops</hi>-gate, Mr. <hi>Pricke</hi> at the <hi>Ball</hi> in St. <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard, next <hi>Cheap</hi>-side, a Picture shop, <hi>Mrs. Holmes</hi> at the <hi>white Horse</hi> and <hi>Tobaccho-Roll</hi> in <hi>Shoreditch</hi>
+            </p>
+            <p>The Bottles are seal'd with the <hi>Half-Moon</hi> and <hi>Ermins.</hi> To prevent Counterfeits.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
